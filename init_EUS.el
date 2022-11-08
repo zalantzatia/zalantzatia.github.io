@@ -17,3 +17,4 @@
 (setq lantokia "~/git_lanak/zalantzatia/")
 
 (ireki (concat lantokia "20221104_inky/main.tex"))
+(ireki (concat lantokia "20221105_mirtila/main.tex"))
